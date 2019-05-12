@@ -1,5 +1,3 @@
-//
-
 class User {
   constructor() {
     this._state = {
