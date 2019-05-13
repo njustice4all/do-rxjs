@@ -1,7 +1,7 @@
 class User {
   constructor() {
     this._state = {
-      name: '',
+      name: 'rxjs',
       isLogin: false,
     };
   }
