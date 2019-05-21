@@ -27,7 +27,7 @@ class User {
 
 class System {
   constructor(user) {
-    this._token = null;
+    this._token = '';
     this._id = 'System';
     this._user = user;
   }
