@@ -39,7 +39,7 @@ class System {
       console.log(`[${this._id}] ${username} 의 토큰은 ${this._token} 입니다`);
     } else {
       this._token = null;
-      console.log(`[${this._id}] 로그인 되지 않았습니다.`);
+      console.log(`[${this._id}] 로그인 되지 않았습니다`);
     }
   }
 }
